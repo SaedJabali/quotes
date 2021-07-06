@@ -17,3 +17,6 @@ then we read the file using the buffered reader File method and we provided the 
 we used the typetoken to convert the JSON data/file to an arraylist of books to use it
 
 for the random output we did a Math method to get our random number and then implemented this number in a system.out method
+
+
+TO run the app after clone it you have to implement the dependencies in the gradle.build to make it work .
